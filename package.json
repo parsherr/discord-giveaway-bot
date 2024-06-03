@@ -1,0 +1,33 @@
+{
+  "name": "parzi-giveaway",
+  "version": "3.0.0",
+  "description": "parsher çekiliş botu.",
+  "main": "parsher.js",
+  "scripts": {
+    "start": "node parsher.js"
+  },
+  "author": "parsher code",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "giveaways",
+    "giveaway",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
+  "dependencies": {
+    "discord-giveaways": "^5.0.1",
+    "discord.js": "^13.3.0",
+    "express": "^4.17.1",
+    "fero-ms": "^2.0.7",
+    "ms": "^3.0.0-canary.1",
+    "parsec": "^2.0.2"
+  },
+  "repository": {
+    "url": "https://github.com/"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  }
+}
